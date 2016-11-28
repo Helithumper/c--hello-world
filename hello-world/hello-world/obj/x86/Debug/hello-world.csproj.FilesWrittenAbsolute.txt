@@ -1,0 +1,5 @@
+/home/peyton/Documents/gitworkspace/csharp-hello-world/hello-world/hello-world/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/peyton/Documents/gitworkspace/csharp-hello-world/hello-world/hello-world/bin/Debug/hello-world.exe.mdb
+/home/peyton/Documents/gitworkspace/csharp-hello-world/hello-world/hello-world/bin/Debug/hello-world.exe
+/home/peyton/Documents/gitworkspace/csharp-hello-world/hello-world/hello-world/obj/x86/Debug/hello-world.exe
+/home/peyton/Documents/gitworkspace/csharp-hello-world/hello-world/hello-world/obj/x86/Debug/hello-world.exe.mdb
